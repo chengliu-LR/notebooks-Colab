@@ -1,1 +1,3 @@
 .DS_Store
+PyTorch/.mypy_cache/
+
